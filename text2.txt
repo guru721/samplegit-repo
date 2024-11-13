@@ -1,0 +1,1 @@
+class is a group  of objects those share commom properties

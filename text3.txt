@@ -1,0 +1,1 @@
+A entity  which has state and behaviour is called as an object.
